@@ -1,0 +1,3 @@
+[submodule "EVB_M1_LiteOS"]
+	path = EVB_M1_LiteOS
+	url = git@github.com:iot-club/EVB_M1_LiteOS.git
